@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "prac-365-bing-spell-check-client-side-solution",
+    "id": "e7ce6d9e-bce1-4184-9139-cef7d816b4be",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/prac-365-bing-spell-check.sppkg"
+  }
+}

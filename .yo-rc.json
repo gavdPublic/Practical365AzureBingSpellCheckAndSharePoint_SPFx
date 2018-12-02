@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "prac-365-bing-spell-check",
+    "libraryId": "e7ce6d9e-bce1-4184-9139-cef7d816b4be",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

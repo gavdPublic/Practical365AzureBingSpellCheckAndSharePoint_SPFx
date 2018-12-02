@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "prac-365-bing-spell-check-wp-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/prac365BingSpellCheckWp/Prac365BingSpellCheckWpWebPart.js",
+          "manifest": "./src/webparts/prac365BingSpellCheckWp/Prac365BingSpellCheckWpWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "Prac365BingSpellCheckWpWebPartStrings": "lib/webparts/prac365BingSpellCheckWp/loc/{locale}.js"
+  }
+}
